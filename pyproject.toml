@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "Abros"
-version = "1.0"
-description = "Abros Language"
-authors = ["Qazzain"]
+name = "Axe"
+version = "3.5"
+description = "Axe Language"
+authors = ["Aeser"]
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
