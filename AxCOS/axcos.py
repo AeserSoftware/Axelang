@@ -4,9 +4,9 @@ print('Welcome to AxCOS standalone.')
 initcmd = input('$ ')
 while True:
   if initcmd == 'cos ver':
-    print('V:S9')
+    print('V:3.5')
   elif initcmd == 'cos ver -cli':
-    print('CLI3')
+    print('CLI3.5')
   elif initcmd == 'cos op':
     print("Operational:100%")
   elif initcmd == 'generate xeno':
