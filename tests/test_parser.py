@@ -1,7 +1,7 @@
 import unittest
-from abros import ast
-from abros.lexer import Lexer, TokenStream
-from abros.parser import Parser
+from axe import ast
+from axe.lexer import Lexer, TokenStream
+from axe.parser import Parser
 
 
 class ParserTest(unittest.TestCase):

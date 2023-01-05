@@ -1,6 +1,6 @@
 import unittest
 import os
-from abros.interpreter import evaluate
+from axe.interpreter import evaluate
 
 TESTS_DIR = os.path.dirname(__file__)
 
